@@ -2,7 +2,7 @@
 
 A four-year transactional sales analysis built entirely in Microsoft Excel, delivering two interactive dashboards that surface profit trends, customer behavior, and product performance across time, geography, and demographics.
 
-🔍 Excel File? Check it out here: [Excel Project File]()
+🔍 Excel File? Check it out here: [Excel Project File](https://github.com/Shihab412/Profit_Performance_Analysis_in_Excel/tree/main/Excel%20File)
 
 ---
 
