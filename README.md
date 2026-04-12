@@ -33,6 +33,10 @@ This project was built in response to a business request to visualize four years
 
 This dashboard provides a longitudinal view of business health, allowing stakeholders to assess performance relative to the prior year and identify seasonal or temporal patterns.
 
+
+https://github.com/user-attachments/assets/4a09e53f-b788-4a32-b32c-5b467bde8c99
+
+
 **What it covers:**
 
 - **KPI Cards (vs. Prior Year):** COGS, Revenue, Order Quantity, Profit, Profit Margin, and Transaction count — each benchmarked against the previous year.
@@ -47,6 +51,10 @@ This dashboard provides a longitudinal view of business health, allowing stakeho
 ## Dashboard 2 — Product, Customer & Geographic Analysis
 
 This dashboard focuses on the *who* and *what* behind profitability — identifying top performers, demographic patterns, and geographic concentration.
+
+
+https://github.com/user-attachments/assets/20dd183a-a1f6-4103-9c9a-f193f763612f
+
 
 **What it covers:**
 
