@@ -92,6 +92,6 @@ This dashboard focuses on the *who* and *what* behind profitability — identify
 
 ## Author
 
-**Sahadat Shihab**  
+**Sahadat Ullah Mollah**  
 Data Analytics Portfolio Project  
-[LinkedIn](#) · [GitHub](#)
+[LinkedIn](www.linkedin.com/in/sahadat-ullah)
