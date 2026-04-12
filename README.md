@@ -1,4 +1,4 @@
-# Profit Performance Analysis Project
+# Profit Performance Analysis
 
 A four-year transactional sales analysis built entirely in Microsoft Excel, delivering two interactive dashboards that surface profit trends, customer behavior, and product performance across time, geography, and demographics.
 
