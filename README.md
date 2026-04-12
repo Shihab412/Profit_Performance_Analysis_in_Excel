@@ -34,7 +34,8 @@ This project was built in response to a business request to visualize four years
 This dashboard provides a longitudinal view of business health, allowing stakeholders to assess performance relative to the prior year and identify seasonal or temporal patterns.
 
 
-https://github.com/user-attachments/assets/4a09e53f-b788-4a32-b32c-5b467bde8c99
+<img width="1340" height="611" alt="Dashboard 1" src="https://github.com/user-attachments/assets/378f3aa0-5818-403c-b924-e4b65a96f07d" />
+
 
 
 **What it covers:**
@@ -53,7 +54,8 @@ https://github.com/user-attachments/assets/4a09e53f-b788-4a32-b32c-5b467bde8c99
 This dashboard focuses on the *who* and *what* behind profitability — identifying top performers, demographic patterns, and geographic concentration.
 
 
-https://github.com/user-attachments/assets/20dd183a-a1f6-4103-9c9a-f193f763612f
+<img width="1333" height="614" alt="Dashboard 2" src="https://github.com/user-attachments/assets/2b614d5d-ab4f-4a3a-b6e0-da936d5e9206" />
+
 
 
 **What it covers:**
