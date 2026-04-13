@@ -11,7 +11,6 @@ A four-year transactional sales analysis built entirely in Microsoft Excel, deli
 This project was built in response to a business request to visualize four years of sales data and assess company performance — with a primary focus on profit. The analysis spans two dashboards and four supporting analysis sheets, covering time-series trends, product profitability, customer segmentation, and geographic distribution.
 
 **Tool:** Microsoft Excel (with VBA/Macros enabled — `.xlsm`)  
-**Source:** [Data with Decision](https://www.youtube.com/@datalab365)  
 **Dataset:** Four years of transactional sales data
 
 ---
